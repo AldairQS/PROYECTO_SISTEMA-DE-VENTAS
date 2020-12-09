@@ -1,0 +1,11 @@
+        ********** 1ø PRODUCTO **********
+
+              > C¢digo : 15
+              > Nombre : juan
+              > Marca  : jfc
+              > Tipo   : normal
+              > Tama¤o : grande
+              > Precio : S/. 1
+
+       *********************************
+
